@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:14
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:13.533333,
-moose_na0.ts
+sh0.ts
 #EXTINF:6.766667,
-moose_na1.ts
+sh1.ts
 #EXTINF:9.766667,
-moose_na2.ts
+sh2.ts
 #EXT-X-ENDLIST
