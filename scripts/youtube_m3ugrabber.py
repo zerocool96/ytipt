@@ -1,15 +1,17 @@
 #! /usr/bin/python3
 
 banner = r'''
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#########################################################################
-'''
+#########################################################       
+#     _______                                   _        #
+#    (_______)                                 | |      #
+#       / /   _____  ____ ___   ____ ___   ___ | |      #
+#      / /   | ___ |/ ___) _ \ / ___) _ \ / _ \| |      #
+#     / /____| ____| |  | |_| ( (__| |_| | |_| | |      #
+#    (_______)_____)_|   \___/ \____)___/ \___/ \_)     #                 
+#                                                       #
+#                                                       #
+#########################################################
+'''                                                     
 
 import requests
 import os
@@ -25,13 +27,13 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
