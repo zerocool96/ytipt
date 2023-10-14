@@ -2,9 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Sirajudheenalqasimi | Islamic Live | https://yt3.googleusercontent.com/JQga_NKVrHU_nBDUuDJeiCCJrzAX0WJNJbqd6NJnNNyzlq1nMjVLDOAsfCi4Ipx_4H6_8eNKdw=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@sirajudheenalqasimilive/live
-
 24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/c/24OnLive/live
 
@@ -52,3 +49,6 @@ https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
 Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
+
+Alqur | live | https://i.imgur.com/lqVwrAF.png | 830
+https://ktv.imamhussain.org/stream/hls/ch1.m3u8
