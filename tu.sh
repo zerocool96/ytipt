@@ -10,6 +10,6 @@ python3 -m pip install playwright
 # Navigate to the scripts folder
 cd $(dirname $0)/scripts/
 
-python3 tu.py > ../m3u8_urls.txt
+python3 tu.py
 
 echo m3u8 grabbed
