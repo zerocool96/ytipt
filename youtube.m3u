@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
 https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
 
 #EXTINF:-1 group-title="Malayalam-News" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" tvg-id="", Manorama News
-https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731928583/ei/p806Z93vJqeKkucPuMLfuQs/ip/20.81.159.128/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324841/txs/51324841%2C51324842%2C51324843/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApASVp76g6DPC4LNsy0gGMKnMTzVjEnPZ0R_N-GKEZY-RlthQjSVfA0Riw0Ng/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPET5tVlxw_CHgUhSF3jtxovCWH9Ll_SXYsqK_xpsODEAiEA8lvj3Oe80kyk4l4rTLjysuhum6BHgCHIJpPtQU5qNrM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam-News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
 https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
