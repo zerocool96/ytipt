@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
 https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
 
 #EXTINF:-1 group-title="Malayalam-News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
-https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733692581/ei/RbhVZ6a9Do61lu8PyeK1mQM/ip/172.183.147.122/id/HGOiuQUwqEw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVMd9Cg1Ime6ivuUI9OIWhN4wkNd-qK1ZMKeGQAptXU3lA8H_DpQI4aGHIk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWWKGNUuPCGA8RGVXbwGuBRYMdFG7vw_QRBV2cSXZrLgCIHLzybx8l0LxgLqS2rPaT5mwIsuT1BYqzBjqUgS8nwlw/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam-News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
 https://raw.githubusercontent.com/zerocool96/ytipt/main/assets/sh.m3u
